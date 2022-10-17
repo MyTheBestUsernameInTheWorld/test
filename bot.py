@@ -7,7 +7,7 @@ from menu import register_handlers_menu
 bot = Bot(token='5589827898:AAHr-s-UZbKe8IFGFvVDPs5_z87q9FlsWtk')  # ваш токен
 
 dp = Dispatcher(bot, storage=MemoryStorage())
-
+fttvgftgttgtbgfrgtnhthy
 
 async def main():
 
